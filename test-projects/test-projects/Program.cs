@@ -26,7 +26,7 @@ namespace Binary
                 count += n & 1;
                 n >>= 1;
             }
-            return count;
+            return count; // return count
         }
     }
 }
