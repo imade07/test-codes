@@ -1,0 +1,15 @@
+C:\Users\Decagon\Documents\GitHub\test-codes\test-projects\test-projects\bin\Debug\net6.0\test-projects.exe
+C:\Users\Decagon\Documents\GitHub\test-codes\test-projects\test-projects\bin\Debug\net6.0\test-projects.deps.json
+C:\Users\Decagon\Documents\GitHub\test-codes\test-projects\test-projects\bin\Debug\net6.0\test-projects.runtimeconfig.json
+C:\Users\Decagon\Documents\GitHub\test-codes\test-projects\test-projects\bin\Debug\net6.0\test-projects.dll
+C:\Users\Decagon\Documents\GitHub\test-codes\test-projects\test-projects\bin\Debug\net6.0\test-projects.pdb
+C:\Users\Decagon\Documents\GitHub\test-codes\test-projects\test-projects\obj\Debug\net6.0\test-projects.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\GitHub\test-codes\test-projects\test-projects\obj\Debug\net6.0\test-projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Documents\GitHub\test-codes\test-projects\test-projects\obj\Debug\net6.0\test-projects.AssemblyInfoInputs.cache
+C:\Users\Decagon\Documents\GitHub\test-codes\test-projects\test-projects\obj\Debug\net6.0\test-projects.AssemblyInfo.cs
+C:\Users\Decagon\Documents\GitHub\test-codes\test-projects\test-projects\obj\Debug\net6.0\test-projects.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\GitHub\test-codes\test-projects\test-projects\obj\Debug\net6.0\test-projects.dll
+C:\Users\Decagon\Documents\GitHub\test-codes\test-projects\test-projects\obj\Debug\net6.0\refint\test-projects.dll
+C:\Users\Decagon\Documents\GitHub\test-codes\test-projects\test-projects\obj\Debug\net6.0\test-projects.pdb
+C:\Users\Decagon\Documents\GitHub\test-codes\test-projects\test-projects\obj\Debug\net6.0\test-projects.genruntimeconfig.cache
+C:\Users\Decagon\Documents\GitHub\test-codes\test-projects\test-projects\obj\Debug\net6.0\ref\test-projects.dll
