@@ -1,0 +1,15 @@
+C:\Users\Decagon\Documents\GitHub\test-codes\bubble-sort\bubble-sort\obj\Debug\net6.0\bubble-sort.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\GitHub\test-codes\bubble-sort\bubble-sort\obj\Debug\net6.0\bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Documents\GitHub\test-codes\bubble-sort\bubble-sort\obj\Debug\net6.0\bubble-sort.AssemblyInfoInputs.cache
+C:\Users\Decagon\Documents\GitHub\test-codes\bubble-sort\bubble-sort\obj\Debug\net6.0\bubble-sort.AssemblyInfo.cs
+C:\Users\Decagon\Documents\GitHub\test-codes\bubble-sort\bubble-sort\obj\Debug\net6.0\bubble-sort.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\GitHub\test-codes\bubble-sort\bubble-sort\bin\Debug\net6.0\bubble-sort.exe
+C:\Users\Decagon\Documents\GitHub\test-codes\bubble-sort\bubble-sort\bin\Debug\net6.0\bubble-sort.deps.json
+C:\Users\Decagon\Documents\GitHub\test-codes\bubble-sort\bubble-sort\bin\Debug\net6.0\bubble-sort.runtimeconfig.json
+C:\Users\Decagon\Documents\GitHub\test-codes\bubble-sort\bubble-sort\bin\Debug\net6.0\bubble-sort.dll
+C:\Users\Decagon\Documents\GitHub\test-codes\bubble-sort\bubble-sort\bin\Debug\net6.0\bubble-sort.pdb
+C:\Users\Decagon\Documents\GitHub\test-codes\bubble-sort\bubble-sort\obj\Debug\net6.0\bubble-sort.dll
+C:\Users\Decagon\Documents\GitHub\test-codes\bubble-sort\bubble-sort\obj\Debug\net6.0\refint\bubble-sort.dll
+C:\Users\Decagon\Documents\GitHub\test-codes\bubble-sort\bubble-sort\obj\Debug\net6.0\bubble-sort.pdb
+C:\Users\Decagon\Documents\GitHub\test-codes\bubble-sort\bubble-sort\obj\Debug\net6.0\bubble-sort.genruntimeconfig.cache
+C:\Users\Decagon\Documents\GitHub\test-codes\bubble-sort\bubble-sort\obj\Debug\net6.0\ref\bubble-sort.dll

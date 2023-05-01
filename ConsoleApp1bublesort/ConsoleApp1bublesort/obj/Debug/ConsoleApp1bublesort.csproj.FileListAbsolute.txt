@@ -1,0 +1,3 @@
+C:\Users\Decagon\Documents\GitHub\test-codes\ConsoleApp1bublesort\ConsoleApp1bublesort\obj\Debug\ConsoleApp1bublesort.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\GitHub\test-codes\ConsoleApp1bublesort\ConsoleApp1bublesort\obj\Debug\ConsoleApp1bublesort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\Documents\GitHub\test-codes\ConsoleApp1bublesort\ConsoleApp1bublesort\obj\Debug\ConsoleApp1bublesort.csproj.CoreCompileInputs.cache
