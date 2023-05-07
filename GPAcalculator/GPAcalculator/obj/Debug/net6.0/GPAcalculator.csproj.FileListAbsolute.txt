@@ -1,0 +1,5 @@
+C:\Users\Decagon\Documents\GitHub\test-codes\GPAcalculator\GPAcalculator\obj\Debug\net6.0\GPAcalculator.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\GitHub\test-codes\GPAcalculator\GPAcalculator\obj\Debug\net6.0\GPAcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Documents\GitHub\test-codes\GPAcalculator\GPAcalculator\obj\Debug\net6.0\GPAcalculator.AssemblyInfoInputs.cache
+C:\Users\Decagon\Documents\GitHub\test-codes\GPAcalculator\GPAcalculator\obj\Debug\net6.0\GPAcalculator.AssemblyInfo.cs
+C:\Users\Decagon\Documents\GitHub\test-codes\GPAcalculator\GPAcalculator\obj\Debug\net6.0\GPAcalculator.csproj.CoreCompileInputs.cache
