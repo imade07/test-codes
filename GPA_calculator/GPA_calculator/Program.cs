@@ -7,7 +7,7 @@ namespace GPA_calculator
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Hello; You are welocme to GPA Calculator");
+            Console.WriteLine("Hello: You are welcome to DECAGON GPA Calculator");
             Console.ResetColor();
             Console.WriteLine("-----------------------------------------");
             DisplayUI displayUI = new DisplayUI();
@@ -34,7 +34,7 @@ namespace GPA_calculator
                 else
                 {
                     // If the user type something that is not recognised by the program
-                    Console.WriteLine("Command not recognised, type help to see all options");
+                    Console.WriteLine("Command not recognised, type name to see all options");
                 }
 
                 // Write a command line terminal symbol
